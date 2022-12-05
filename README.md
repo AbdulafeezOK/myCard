@@ -1,2 +1,2 @@
-# myCard
-My digital business card.
+# name it app tutoriAL practice
+
